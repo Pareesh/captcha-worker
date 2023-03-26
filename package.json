@@ -1,5 +1,5 @@
 {
-  "name": "captcha",
+  "name": "captcha-worker",
   "version": "0.0.0",
   "devDependencies": {
     "wrangler": "2.13.0"
