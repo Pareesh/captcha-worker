@@ -1,5 +1,5 @@
 {
-  "name": "recaptchav3",
+  "name": "captcha",
   "version": "0.0.0",
   "devDependencies": {
     "wrangler": "2.13.0"
